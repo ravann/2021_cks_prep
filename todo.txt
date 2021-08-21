@@ -1,0 +1,11 @@
+1. Build an application that interacts with K8 cluster
+-> List pods
+
+2. Build a cluster from scratch without kubeadm
+-> build certs from scratch
+
+3. Build nginx server with httos
+
+4. Change root ca of the cluster
+
+
