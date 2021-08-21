@@ -1,0 +1,3 @@
+gcloud compute ssh k8master --zone=asia-southeast1-b --strict-host-key-checking=no
+
+gcloud compute ssh k8worker --zone=asia-southeast1-b --strict-host-key-checking=no
