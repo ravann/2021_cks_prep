@@ -1,0 +1,8 @@
+alias k=kubectl
+complete -F __start_kubectl k
+alias ka="kubectl apply -f"
+alias kc="kubectl create"
+alias kdel="kubectl delete"
+alias kdes="kubectl describe"
+alias kg="kubectl get"
+alias kr="kubectl run"
